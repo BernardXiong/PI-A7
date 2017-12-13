@@ -9,17 +9,17 @@
 ## Device Drivers
 
 * [x] UART
-* [] IIC
+* [ ] IIC
 * [x] GPIO
-* [] Clock
-* [] SPI
-* [] SDIO
-* [] EMAC
-* [] WDT
-* [] RTC
-* [] Hardware Timer
-* [] IIS
-* [] LCD
-* [] Flash
-* [] USB Device Control
-* [] USB Host Control
+* [ ] Clock
+* [ ] SPI
+* [ ] SDIO
+* [ ] EMAC
+* [ ] WDT
+* [ ] RTC
+* [ ] Hardware Timer
+* [ ] IIS
+* [ ] LCD
+* [ ] Flash
+* [ ] USB Device Control
+* [ ] USB Host Control
