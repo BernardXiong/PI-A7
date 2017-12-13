@@ -2,24 +2,35 @@
 
 ## CPU: ARM Cortex-A7
 
-* [x] cache
+* [x] Cache
 * [x] MMU
 * [x] OS timer
 
 ## Device Drivers
 
-* [x] UART
-* [ ] IIC
-* [x] GPIO
+### LowSpeed Drivers
+
 * [ ] Clock
+* [x] UART
+* [x] GPIO
+* [ ] IIC
 * [ ] SPI
-* [ ] SDIO
-* [ ] EMAC
+* [ ] IIS
 * [ ] WDT
 * [ ] RTC
-* [ ] Hardware Timer
-* [ ] IIS
-* [ ] LCD
 * [ ] Flash
+* [ ] PWM
+* [ ] ADC/DAC
+* [ ] Hardware Timer
+
+### HighSpeed Drivers
+
+* [ ] SDIO
+* [ ] EMAC
+* [ ] LCD
 * [ ] USB Device Control
 * [ ] USB Host Control
+
+### Industrial Drivers
+
+* [ ] CAN
