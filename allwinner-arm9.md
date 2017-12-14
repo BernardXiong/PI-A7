@@ -15,7 +15,7 @@
 * [x] GPIO
 * [x] IIC
 * [x] SPI
-* [-] IIS
+* [ ] IIS
 * [x] Audio
 * [ ] WDT
 * [ ] RTC
@@ -27,11 +27,11 @@
 ### HighSpeed Drivers
 
 * [x] SDIO
-* [-] EMAC
+* [ ] EMAC -- No Device
 * [x] LCD
 * [ ] USB Device Control
 * [ ] USB Host Control
 
 ### Industrial Drivers
 
-* [-] CAN
+* [ ] CAN -- No Device
