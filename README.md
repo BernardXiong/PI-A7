@@ -1,6 +1,6 @@
 # RT-Thread BSP check-list
 
-## CPU: ARM Cortex-A7
+## CPU: xxx
 
 * [x] Cache
 * [x] MMU
