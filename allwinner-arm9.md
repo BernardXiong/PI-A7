@@ -10,14 +10,14 @@
 
 ### LowSpeed Drivers
 
-* [ ] Clock
+* [x] Clock
 * [x] UART
 * [x] GPIO
 * [x] IIC
 * [x] SPI
 * [ ] IIS
 * [x] Audio
-* [ ] WDT
+* [x] WDT
 * [ ] RTC
 * [x] Flash
 * [ ] PWM
