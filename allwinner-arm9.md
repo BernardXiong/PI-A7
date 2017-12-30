@@ -10,19 +10,19 @@
 
 ### LowSpeed Drivers
 
-* [ ] Clock
+* [x] Clock (CCU)
 * [x] UART
 * [x] GPIO
 * [x] IIC
 * [x] SPI
 * [ ] IIS
 * [x] Audio
-* [ ] WDT
-* [ ] RTC
+* [ ] RTC -- No Device
 * [x] Flash
 * [ ] PWM
 * [ ] ADC/DAC
 * [ ] Hardware Timer
+* [ ] WDT
 
 ### HighSpeed Drivers
 
