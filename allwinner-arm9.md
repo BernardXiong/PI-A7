@@ -29,7 +29,7 @@
 * [x] SDIO
 * [ ] EMAC -- No Device
 * [x] LCD
-* [ ] USB Device Control
+* [x] USB Device Control
 * [ ] USB Host Control
 
 ### Industrial Drivers
