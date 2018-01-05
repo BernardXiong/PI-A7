@@ -17,12 +17,12 @@
 * [x] SPI
 * [ ] IIS
 * [x] Audio
+* [x] WDT
 * [ ] RTC -- No Device
 * [x] Flash
 * [ ] PWM
 * [ ] ADC/DAC
 * [ ] Hardware Timer
-* [ ] WDT
 
 ### HighSpeed Drivers
 
