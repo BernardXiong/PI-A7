@@ -10,7 +10,7 @@
 
 ### LowSpeed Drivers
 
-* [x] Clock
+* [x] Clock (CCU)
 * [x] UART
 * [x] GPIO
 * [x] IIC
@@ -18,7 +18,7 @@
 * [ ] IIS
 * [x] Audio
 * [x] WDT
-* [ ] RTC
+* [ ] RTC -- No Device
 * [x] Flash
 * [ ] PWM
 * [ ] ADC/DAC
@@ -29,7 +29,7 @@
 * [x] SDIO
 * [ ] EMAC -- No Device
 * [x] LCD
-* [ ] USB Device Control
+* [x] USB Device Control
 * [ ] USB Host Control
 
 ### Industrial Drivers
