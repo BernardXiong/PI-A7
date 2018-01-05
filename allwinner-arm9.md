@@ -22,7 +22,7 @@
 * [ ] PWM
 * [ ] ADC/DAC
 * [ ] Hardware Timer
-* [ ] WDT
+* [x] WDT
 
 ### HighSpeed Drivers
 
