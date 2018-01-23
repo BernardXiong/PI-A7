@@ -2,23 +2,23 @@
 
 ## Milestone-0
 
-* [ ] CPU: Andes
+* [x] CPU: Andes
 * [x] Cache
 * [x] OS timer
-* [ ] UART driver
+* [x] UART driver
 
 ## Milestone-1
 
 * [x] GPIO
 * [ ] IIC
 * [ ] SPI
-* [ ] Flash
+* [x] Flash
 * [ ] WDT
 * [ ] RTC
 
 ## Milestone-2
 
-* [ ] Wlan-Driver
+* [x] Wlan-Driver
 * [ ] PWM
 * [ ] ADC/DAC
 * [ ] Hardware Timer
