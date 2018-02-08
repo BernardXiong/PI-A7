@@ -8,9 +8,11 @@ xxx 是 cc 公司的一款面向 nn 等领域的芯片。包括如下硬件特�
 
 | 硬件 | 描述 |
 | -- | -- |
-|CPU:| ARM Cortex-M4 |
-|SRAM:| 128kB |
-|片内Flash:| 1MB |
+|芯片型号| XXX或XX系列 |
+|CPU| ARM Cortex-M4 |
+|主频| 180MHz |
+|片内SRAM| 128kB |
+|片内Flash| 1MB |
 
 ## 2. 编译说明
 
