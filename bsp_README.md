@@ -26,8 +26,8 @@
 
 | 驱动 | 支持情况  |  备注  |
 | ------ | ----  | :------:  |
-| UART | <i class="icon-check"></i> | UART0/1 |
-| clock | <i class="icon-check"></i> |  |
+| UART | * [x] | UART0/1 |
+| clock | * [x] |  |
 | SPI |  | SPI0/1 |
 
 ## 5. 联系人信息
